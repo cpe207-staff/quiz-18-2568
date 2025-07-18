@@ -2,7 +2,7 @@
 
 ให้น.ศ.เขียนโปรแกรมโดยใช้ Node.js + TypeScript ตามคำสั่งของโจทย์ในข้อต่าง ๆ ตามรายละเอียดด้านล่างนี้
 
-[คลิกเพื่อดูรายละเอียด](https://o365cmu-my.sharepoint.com/:b:/g/personal/dome_potikanond_cmu_ac_th/EQJJSILVV8FHvN7GhBtHwsoBPejLBvP-n_39mWr_ynSsJA?e=vBTjyM)
+[คลิกเพื่อดูรายละเอียด](https://o365cmu-my.sharepoint.com/:b:/g/personal/dome_potikanond_cmu_ac_th/EQJJSILVV8FHvN7GhBtHwsoBXcNABZ-AjW__FtppPcUAXA?e=4ZVBnL)
 
 ### ป้อนข้อมูลนักศึกษา
 
