@@ -1,5 +1,7 @@
 /* define interface for Hero objects */
-interface Hero {}
+interface Hero {
+  /* Your code here */
+}
 
 /* assign interface/type to the function definition properly */
 const q1 = (hero) => {

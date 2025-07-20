@@ -1,8 +1,5 @@
 /* define interface for Yakusa objects */
-interface Yakusa {
-  id: number;
-  power: number;
-}
+/* Your code here */
 
 /* assign interface/type to the function definition properly */
 const q5 = (yakusas, fights) => {

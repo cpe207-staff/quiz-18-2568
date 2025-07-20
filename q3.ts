@@ -1,5 +1,7 @@
 /* define interface for Runner objects */
-interface Runner {}
+interface Runner {
+  /* Your code here */
+}
 
 /* assign interface/type to the function definition properly */
 const q3 = (runners: Runner[]): Runner[] => {

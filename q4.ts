@@ -1,8 +1,9 @@
 /* define interface for Hero and Item objects */
+/* Your code here */
 
 /* assign interface/type to the function definition properly */
 const q4 = (hero, shopItems) => {
-  //your code here
+  /* Your code here */
 };
 
 const hero1 = {
